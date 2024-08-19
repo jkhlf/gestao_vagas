@@ -34,3 +34,7 @@ build/
 
 ###Docker ###
 docker-compose.yml
+
+
+### Aplication Properties ###
+/src/main/resources/application.properties
